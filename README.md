@@ -1,5 +1,5 @@
 # Oi, eu sou a Nathallya! 👋
-Sou uma jovem entusiasta por tecnologia que valoriza a aprendizagem contínua.
+Sou uma jovem entusiasta por tecnologia que valoriza a aprendizagem e evolução contínua!
 
 ## Curiosidades
 * Possuo formação Técnica em Informática concedida pela Fundação Instituto Educação de Barueri (FIEB)
