@@ -1,16 +1,14 @@
-## Hi there 👋
+# Oi, eu sou a Nathallya! 👋
+Sou uma jovem entusiasta por tecnologia que valoriza a aprendizagem contínua.
 
-<!--
-**natarouca/natarouca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Curiosidades
+* Possuo formação Técnica em Informática concedida pela Fundação Instituto Educação de Barueri (FIEB)
+* Estudo Análise e Desenvolvimento de Sistemas na FATEC de Carapicuíba
+* Pretendo me tornar uma **Desenvolvedora Fullstack**
+## Tecnologias 
+* Desenvolvimento Web: **HTML5 e CSS3 (Intermediário)**
+* Interatividadede em páginas Web: **JavaScript (Intermediário)**
+* Banco de dados: **SQLServer (Intermediário)**
 
-Here are some ideas to get you started:
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
